@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background: #fbefea;
+  width: 100%;
+  height: 70vh;
+  margin: 0;
+  top: 0;
+}
+
+.songHeading {
+  position: absolute;
+  left: 0;
+  top: 9%;
+  right: 0;
+  text-align: center;
+  text-transform: uppercase;
+  margin: auto;
+  color: #455eb3;
+  font-size: 25px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}

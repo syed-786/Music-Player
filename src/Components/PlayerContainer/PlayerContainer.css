@@ -1,0 +1,42 @@
+.mainC {
+  text-align: "center";
+  width: 50%;
+  height: 70vh;
+  box-sizing: border-box;
+  background: none;
+  padding-left: 8vh;
+}
+
+.songList {
+  margin-left: 10vh;
+}
+
+.headingPlay {
+  font-size: 6vh;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.headingTwo {
+  margin-left: 5vh;
+}
+
+.songTitle {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-style: italic;
+  color: red;
+}
+
+.songStyle {
+  margin-left: 5vh;
+  color: blue;
+}
+
+.player {
+  margin-top: 5vh;
+  margin-left: 15vh;
+}
+
+.playButton:hover {
+  cursor: pointer;
+  /* color: white; */
+}

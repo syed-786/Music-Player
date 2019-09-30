@@ -1,0 +1,16 @@
+.header {
+  width: 100%;
+  height: 30vh;
+  margin: 0;
+  top: 0;
+
+  background-color: #f7c9a8;
+}
+
+.boyImage {
+  height: 30vh;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
